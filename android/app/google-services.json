@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1048551869630",
+    "firebase_url": "https://ahdustask-default-rtdb.firebaseio.com",
+    "project_id": "ahdustask",
+    "storage_bucket": "ahdustask.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048551869630:android:1e05fe3d678af50725e2ef",
+        "android_client_info": {
+          "package_name": "com.ahdustask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4lGZUg0PuVLGwifGz0MXtZwYpNnyHeWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
